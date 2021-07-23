@@ -1,0 +1,7 @@
+    {
+            "v_keyfile": "./key.json",
+            "v_folderid": "vid",
+            "v_srcimage": "ubuntu-1604-lts",
+	    "v_subnet": "subnet",
+	    "v_source_image_folder_id": "vsrc-img"
+    }
